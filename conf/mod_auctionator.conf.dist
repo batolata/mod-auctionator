@@ -109,8 +109,8 @@ Auctionator.Multipliers.Seller.Poor = 1.0
 Auctionator.Multipliers.Seller.Normal = 1.0
 Auctionator.Multipliers.Seller.Uncommon = 2.0
 Auctionator.Multipliers.Seller.Rare = 6.0
-Auctionator.Multipliers.Seller.Epic = 10.0
-Auctionator.Multipliers.Seller.Legendary = 15.0
+Auctionator.Multipliers.Seller.Epic = 20.0
+Auctionator.Multipliers.Seller.Legendary = 30.0
 
 ########################################
 # Multipliers for bidder prices
@@ -119,8 +119,8 @@ Auctionator.Multipliers.Bidder.Poor = 1.0
 Auctionator.Multipliers.Bidder.Normal = 1.0
 Auctionator.Multipliers.Bidder.Uncommon = 2.0
 Auctionator.Multipliers.Bidder.Rare = 6.0
-Auctionator.Multipliers.Bidder.Epic = 10.0
-Auctionator.Multipliers.Bidder.Legendary = 15.0
+Auctionator.Multipliers.Bidder.Epic = 20.0
+Auctionator.Multipliers.Bidder.Legendary = 30.0
 
 ###################################################################################################
 # LOGGING SYSTEM SETTINGS

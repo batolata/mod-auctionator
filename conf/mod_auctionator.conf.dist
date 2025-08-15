@@ -18,22 +18,22 @@ Auctionator.Enabled = 1
 
 # the top level account id
 # this is not actually used methinks
-Auctionator.CharacterId = 2
+Auctionator.CharacterId = 1002
 
 # the character id
-Auctionator.CharacterGuid = 2
+Auctionator.CharacterGuid = 10002
 
 ########################################
 # Seller configuration
 ########################################
-Auctionator.AllianceSeller.Enabled = 0
-Auctionator.AllianceSeller.MaxAuctions = 5000
+Auctionator.AllianceSeller.Enabled = 1
+Auctionator.AllianceSeller.MaxAuctions = 14999
 
-Auctionator.HordeSeller.Enabled = 0
-Auctionator.HordeSeller.MaxAuctions = 5000
+Auctionator.HordeSeller.Enabled = 1
+Auctionator.HordeSeller.MaxAuctions = 14999
 
-Auctionator.NeutralSeller.Enabled = 0
-Auctionator.NeutralSeller.MaxAuctions = 5000
+Auctionator.NeutralSeller.Enabled = 1
+Auctionator.NeutralSeller.MaxAuctions = 14999
 
 ########################################
 # Bidder/Buyer configuration
@@ -57,7 +57,7 @@ Auctionator.NeutralBidder.MaxPerCycle = 2
 # this may be helpful for changing randomness of the auctions.
 # Default is 1000 items.
 ########################################
-Auctionator.Seller.QueryLimit = 1000
+Auctionator.Seller.QueryLimit = 3000
 
 ########################################
 # Default price for items that have a BuyPrice of 0.
@@ -73,7 +73,7 @@ Auctionator.Seller.DefaultPrice = 10000000
 # what happens if it's not.
 # Default is 100 per house per cycle.
 ########################################
-Auctionator.Seller.AuctionsPerRun = 100
+Auctionator.Seller.AuctionsPerRun = 3000
 
 ########################################
 # Do we want to randomize the size of stacks?
